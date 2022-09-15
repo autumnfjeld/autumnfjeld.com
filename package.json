@@ -37,7 +37,7 @@
   },
   "homepage": "autumnfjeld.com",
   "devDependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "catw": "^1.0.1",
     "clean-css": "^4.2.1",
     "clean-css-cli": "^4.3.0",
