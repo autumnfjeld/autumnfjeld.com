@@ -8,7 +8,7 @@ var general = {
   firstName: "Autumn",
   lastName: "Fjeld",
   email: "autumnfjeld@gmail.com",
-  careerTitle: "Lead Product Engineer",
+  careerTitle: "Product Engineering Lead",
   resumeLink: "media/Autumn_Fjeld_Resume_20171123.pdf",
   webProfiles: {
     linkedIn: {
@@ -52,16 +52,7 @@ var workExperience = [
     startDate: "July 2020",
     endDate: "Present",
     items: [
-      '<a href="https://create.withgoogle.com/" target="_blank">Create with Google</a>: part of founding product team that launched Create with Google suite of products. Responsible for the <a href="https://create.withgoogle.com/" target="_blank">website</a> and <a href="https://create.withgoogle.com/youtubemockuptool" target="_blank">YouTube Mockup Tool</a>. Working in a cross functional team, under intense deadlines, and within the security and technical standards set by Google.  <br> I\'ve worn many hats over the course of the project: sole full-stack dev on the Mockup Tool, dev lead on CMSification & improvement of the website, stakeholder management in guiding tech & feature decisions, on-boarding new ustwobies in agile process and QA. <br>  Website Stack: GAE, python/jinja/webapp. <br>  MockupTool stack: GAE, python/webapp, Angular6. <br>  Version 2 of our products going live in June 2019!! Thrilling project to be on!',
-
-      '<a href="https://www.cochlear.com" target="_blank">Cochlear</a>: worked on "CoPilot", a pilot app designed to make use of hearing implant data to assist recipients in maximizing functionality of their implants for optimal hearing. In charge of python back-end, data crunching, and shepherding through AWS security architecture per Cochlear and regulatory standards.',
-
-      '<a href="https://www.bluecats.com/" target="_blank">BlueCats</a>: part of small design/build team building new website (not yet deployed). Sole engineer responsible for all technical decisions: tech stack, build pipeline, and hosting. Site built in Angular7, hosted on Netlify, with Contentful CMS.',
-
-      '<a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">Lumi</a>: An internal ustwo project I worked on with a designer, to create a voice driven app that would change the lighting to reflect a person\'s mood. Using Philips Hue Lights, a Google Home, and node.js controller, and a beautiful UI design, I built an MVP Google Assistant app and web app. Read my <a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">blog post</a>.',
-
-      // TODO: figure out solution: this section becomes too tall, greater than 500px, and srews up the progress-work3.png image placement
-      // '<a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">Lumi</a>: An internal ustwo project I worked on with a designer, to create a light atmosphere that would reflect a person\'s mood. Using Philips Hue Lights, a Google Home, and a website and back-end node.js controller, and a beautiful UI design, I built an MVP that allowed user voice or text input to change the lighting in a room.  A project I\'d love to return to given the time, we had so many ideas for a fully immersive mood room (scent, music, massage chair!) that the user could command upon expressing their mood and state of mind. Read the <a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">blog post</a> I wrote.'
+      'stuff'
     ],
   },
   {
@@ -171,7 +162,7 @@ var workExperience = [
   },
   {
     order: 10,
-    company: "University Of Leoben, Austria",
+    company: "University of Leoben, Austria",
     title: "Post Doctoral Researcher",
     location: "Leoben, Austria",
     startDate: "Jun 2006",
@@ -514,32 +505,32 @@ var funFacts = [
   {
     title: "Traveling",
     blurb:
-      "I've lived on four continents: Africa, Europe, N. America, and Australia. Nothing is more thrilling than stepping into a new place on earth, eating a tasty unfamiliar delicacy, learning about people and culture. Traveling and checking out the world is a must for me!  Some highlights: Thailand, Bali, Auckland, Cuba, Baja Mexico, Republic of Georgia, Spain, Portugal, Colombia.",
+      "I've lived on four continents: Africa, Europe, N. America, and Australia. Nothing is more thrilling than stepping into a new place on earth, eating tasty unfamiliar delicacies, learning about people and culture. Traveling and checking out the world is a must for me!  Some highlights: Thailand, Bali, Auckland, Cuba, Baja Mexico, Republic of Georgia, Spain, Portugal, Colombia.",
   },
   {
     title: "Austria",
     blurb:
-      "I was a researcher at university in Austria for four years, in my computational fluid dynamics phase of life.  While there I was determined to become fluent in German and started weekly German-learning conversational group for foreigners in Leoben, Austria. I still work to improve my German skills via social groups and classes at a local community college.",
+      "I was a researcher at university in Austria for four years, in my computational fluid dynamics phase of life.  While there I was determined to become fluent in German and started weekly German-learning conversational group for us foreigners living in Leoben, Austria. I still work to improve my German skills via social groups and classes at a local community college.",
   },
   {
     title: "Creativity",
     blurb:
-      "Occasional sewer and creator of colorful clothes, jewelry, bags. I thrive on color. The combination of tech and creativity is why I love web development and design.",
+      "Occasional sewer and creator of colorful clothes, jewelry, bags. I thrive on color. The combination of tech and creativity is why I fit so well in web development and design--and why I left Materials Science for WebDev. Current projects include painting the house I bought in 2020 every fun color possible!",
   },
   {
     title: "Volunteering",
     blurb:
-      "I've been a math tutor volunteer in a San Francisco middle-school, helping kids who are struggling with math meet state education requirements.  I've been a volunteer in many different roles over the years.  Past volunteer experiences: tutor for Women Who Code, high school prep classes for underprivileged kids.",
+      "I was a math tutor volunteer in a San Francisco middle-school, helping kids who are struggling with math meet state education requirements.  I've been a volunteer in many different roles over the years.  Past volunteer experiences: tutor for Women Who Code, high school prep classes for underprivileged kids. I wish I did more of this.",
   },
   {
     title: "Reading",
     blurb:
-      "I have been a voracious reader at times (my mother made me read 100 books in first grade!).  Now I generally divide my reading time between novels, skill improvement books, and <i>The New Yorker</i>.  Some of my favorite recent reads: <i>The Short and Tragic LIfe of Robert Peace</i>, <i>Creativity, Inc.</i>, <i>Beautiful Ruins</i>, <i>Where'd You Go Bernadette</i>.",
+      "I have been a voracious reader at times (my mother made me read 100 books in first grade!).  Now I generally divide my reading time between novels, skill improvement books, and <i>The New Yorker</i>.  Some of my favorite recent reads:  <i>Tomorrow, and Tomorrow, and Tomorrow</i>, <i>Mating</i>, <i>Lessons from the Edge: A Memoir</i>, <i>The Short and Tragic LIfe of Robert Peace</i>, <i>Creativity, Inc.</i>, <i>Beautiful Ruins</i>, <i>Where'd You Go Bernadette</i>.",
   },
-  // {
-  //     title: '',
-  //     blurb: ''
-  // },
+  {
+      title: 'Bucket List',
+      blurb: 'Learn spanish fluently. Learn to play a musical instrument. Become a fashion designer (this one might have to wait til in my next life). Do something meaningful to get more girls into STEM fields. Visit all 50 US states & Puerto Rico.'
+  },
 ];
 
 /**
