@@ -14,3 +14,7 @@ Watch:
 `npm run watch:all`
 
 
+# How to update
+* Make repo changes
+* Upload to AWS S3 - see instructions in ignore
+*  https://us-east-1.console.aws.amazon.com/amplify/home?region=us-east-1#/create
