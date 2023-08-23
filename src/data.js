@@ -46,13 +46,13 @@ var general = {
 var workExperience = [
   {
     order: 19,
-    company: "Wordpress.com at Automattic Inc",
+    company: "Wordpress.com at Automattic",
     title: "Code Wrangler - Team Lead",
-    location: "Sydney, Australia",
+    location: "Sydney, Australia & USA",
     startDate: "July 2020",
     endDate: "Present",
     items: [
-      'stuff'
+      'I\'m team lead working on the theme and onboarding experience of WordPress.com.  My team and I impact millions of WordPress users. See my work in our onboarding at <a href="https://wordpress.comcom/start" target="_blank">WordPress.com/start</a> .'
     ],
   },
   {
@@ -63,13 +63,15 @@ var workExperience = [
     startDate: "Jan 2018",
     endDate: "Present",
     items: [
-      '<a href="https://create.withgoogle.com/" target="_blank">Create with Google</a>: part of founding product team that launched Create with Google suite of products. Responsible for the <a href="https://create.withgoogle.com/" target="_blank">website</a> and <a href="https://create.withgoogle.com/youtubemockuptool" target="_blank">YouTube Mockup Tool</a>. Working in a cross functional team, under intense deadlines, and within the security and technical standards set by Google.  <br> I\'ve worn many hats over the course of the project: sole full-stack dev on the Mockup Tool, dev lead on CMSification & improvement of the website, stakeholder management in guiding tech & feature decisions, on-boarding new ustwobies in agile process and QA. <br>  Website Stack: GAE, python/jinja/webapp. <br>  MockupTool stack: GAE, python/webapp, Angular6. <br>  Version 2 of our products going live in June 2019!! Thrilling project to be on!',
+      `<a href="https://ustwo.com/" target="_blank">ustwo</a> is a digital design agency with offices around the globe. Below are the client projects I worked on.  `,
+      `<a href="https://qantas.com/" target="_blank">Qantas</a>: worked on the <a href="https://https://cardcompanion.qantas.com" target="_blank">Card Companion App</a>. Tech stack: AWS, Elastic search, GraphQL, React.`,
+      '<a href="https://create.withgoogle.com/" target="_blank">Create with Google</a>: part of the founding product team that launched Create with Google suite of products. Responsible for the <a href="https://create.withgoogle.com/" target="_blank">website</a> and <a href="https://create.withgoogle.com/youtubemockuptool" target="_blank">YouTube Mockup Tool</a>. A project with intense deadlines during which, I wore many hats: sole full-stack dev on the Mockup Tool, dev lead on CMSification & improvement of the website, stakeholder management, on-boarding new ustwobies in agile process and QA. <br>  Website Stack: GAE, python/jinja/webapp. <br>  MockupTool stack: GAE, python/webapp, Angular6. <br>',
 
       '<a href="https://www.cochlear.com" target="_blank">Cochlear</a>: worked on "CoPilot", a pilot app designed to make use of hearing implant data to assist recipients in maximizing functionality of their implants for optimal hearing. In charge of python back-end, data crunching, and shepherding through AWS security architecture per Cochlear and regulatory standards.',
 
-      '<a href="https://www.bluecats.com/" target="_blank">BlueCats</a>: part of small design/build team building new website (not yet deployed). Sole engineer responsible for all technical decisions: tech stack, build pipeline, and hosting. Site built in Angular7, hosted on Netlify, with Contentful CMS.',
+      '<a href="https://www.bluecats.com/" target="_blank">BlueCats</a>: sole engineer responsible for all technical decisions: tech stack, build pipeline, and hosting. Site built in Angular7, hosted on Netlify, with Contentful CMS.',
 
-      '<a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">Lumi</a>: An internal ustwo project I worked on with a designer, to create a voice driven app that would change the lighting to reflect a person\'s mood. Using Philips Hue Lights, a Google Home, and node.js controller, and a beautiful UI design, I built an MVP Google Assistant app and web app. Read my <a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">blog post</a>.',
+      '<a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">Lumi: turning language into light</a>: an internal ustwo project using Philips Hue Lights, a Google Home, and node.js controller,  I built a Google voice driven web app that changed the lighting to reflect a person\'s mood. Read my <a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">blog post</a>.',
 
       // TODO: figure out solution: this section becomes too tall, greater than 500px, and srews up the progress-work3.png image placement
       // '<a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">Lumi</a>: An internal ustwo project I worked on with a designer, to create a light atmosphere that would reflect a person\'s mood. Using Philips Hue Lights, a Google Home, and a website and back-end node.js controller, and a beautiful UI design, I built an MVP that allowed user voice or text input to change the lighting in a room.  A project I\'d love to return to given the time, we had so many ideas for a fully immersive mood room (scent, music, massage chair!) that the user could command upon expressing their mood and state of mind. Read the <a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">blog post</a> I wrote.'
@@ -83,10 +85,9 @@ var workExperience = [
     startDate: "Then",
     endDate: "Always",
     items: [
-      "Built this site with a pre-designed html/css template, a great learning experience in design and layout. Broke up the html into pug files, storing my content as json to compile into a nice static site stored on AWS S3.",
-      'Used AWS Microservices for the contact form at the bottom of this site. Connected my email to this domain via <a href="https://aws.amazon.com/ses" target="_blank">Simple Email Service</a> and wired up a <a href="https://aws.amazon.com/lambda" target="_blank">Lambda function</a> to email the form content from my API endpoint to myself.',
+      'Built this site starting with a pre-designed html/css template, a great learning experience in design and layout. Hosted on WordPress, served up from AWS S3, with AWS Microservices for the contact form.',
       'Built a site for a Computational Materials research group at the University of California Riverside utilizing AWS tools: a multi-part site hosted on S3 with Microservices to handle dynamic content. Technical goals for this project included maximizing use of flexbox, using npm for all build steps, creating a scripting process to parse <a href="http://www.bibtex.org/Format" target="_blank">bibtex</a> journal listings into interactive html content. <a href="https://github.com/autumnfjeld/dralexgreaney" target="_blank">Github repo.</a> ',
-      'Improving my design chops.  Enrolled in Coursera\'s <a href="https://www.coursera.org/specializations/graphic-design" target="_blank">Graphic Design Specialization</a> created by California Institute of the Arts.',
+      'Design education via Coursera\'s <a href="https://www.coursera.org/specializations/graphic-design" target="_blank">Graphic Design Specialization</a> created by California Institute of the Arts.',
     ],
   },
   {
@@ -484,7 +485,7 @@ var skills = [
       {
         id: 4,
         colorId: 4,
-        skill: "Determined",
+        skill: "Introspective",
         completed: "99%",
       },
       {
@@ -505,17 +506,17 @@ var funFacts = [
   {
     title: "Traveling",
     blurb:
-      "I've lived on four continents: Africa, Europe, N. America, and Australia. Nothing is more thrilling than stepping into a new place on earth, eating tasty unfamiliar delicacies, learning about people and culture. Traveling and checking out the world is a must for me!  Some highlights: Thailand, Bali, Auckland, Cuba, Baja Mexico, Republic of Georgia, Spain, Portugal, Colombia.",
+      "I've lived on four continents: Africa, Europe, N. America, and Australia. And have traveled to all except Antarctica. Nothing is more thrilling than stepping into a new place on earth, eating tasty unfamiliar delicacies, smiling at new people, immersing in new cultures. Traveling and checking out the world is a must for me!  Some groovy explorations: Thailand, Bali, Auckland, Cuba, Baja California, Republic of Georgia, Portugal, Colombia, San Francisco, CA, Washington, D.C.",
   },
   {
     title: "Austria",
     blurb:
-      "I was a researcher at university in Austria for four years, in my computational fluid dynamics phase of life.  While there I was determined to become fluent in German and started weekly German-learning conversational group for us foreigners living in Leoben, Austria. I still work to improve my German skills via social groups and classes at a local community college.",
+      "I was a post-doctoral researcher at a university in Austria for four years, in my computational fluid dynamics phase of life.  While there I was determined to become fluent in German and started weekly German-learning conversational group for us foreigners living in Leoben, Austria. I still work to improve my German skills via social groups and classes at a local community college.",
   },
   {
     title: "Creativity",
     blurb:
-      "Occasional sewer and creator of colorful clothes, jewelry, bags. I thrive on color. The combination of tech and creativity is why I fit so well in web development and design--and why I left Materials Science for WebDev. Current projects include painting the house I bought in 2020 every fun color possible!",
+      "Occasional creator of colorful clothes, jewelry, bags (when I have time to dust off my sewing machine). I thrive on color. The combination of tech and creativity is why I fit so well in web development and design--and why I left Materials Science for WebDev. Current projects include painting the house I bought in 2020 every fun color possible!",
   },
   {
     title: "Volunteering",
@@ -525,11 +526,11 @@ var funFacts = [
   {
     title: "Reading",
     blurb:
-      "I have been a voracious reader at times (my mother made me read 100 books in first grade!).  Now I generally divide my reading time between novels, skill improvement books, and <i>The New Yorker</i>.  Some of my favorite recent reads:  <i>Tomorrow, and Tomorrow, and Tomorrow</i>, <i>Mating</i>, <i>Lessons from the Edge: A Memoir</i>, <i>The Short and Tragic LIfe of Robert Peace</i>, <i>Creativity, Inc.</i>, <i>Beautiful Ruins</i>, <i>Where'd You Go Bernadette</i>.",
+      "I received a trophy for reading 100 books in first grade--thank you Mom!  Now I generally divide my reading time between novels, skill improvement books, and <i>The New Yorker</i>.  Some of my favorite recent reads:  <i>Tomorrow, and Tomorrow, and Tomorrow</i>, <i>Mating</i>, <i>Lessons from the Edge: A Memoir</i>, <i>The Short and Tragic LIfe of Robert Peace</i>, <i>Creativity, Inc.</i>, <i>Beautiful Ruins</i>, <i>Where'd You Go Bernadette</i>.",
   },
   {
       title: 'Bucket List',
-      blurb: 'Learn spanish fluently. Learn to play a musical instrument. Become a fashion designer (this one might have to wait til in my next life). Do something meaningful to get more girls into STEM fields. Visit all 50 US states & Puerto Rico.'
+      blurb: 'Learn spanish fluently. Learn to play a musical instrument. Become a fashion designer (this one might have to wait til in my next life). Do something meaningful to get more girls into STEM fields. Visit all 50 US states & Puerto Rico. Become a foreign diplomat (this life is tooooo short!).'
   },
 ];
 
