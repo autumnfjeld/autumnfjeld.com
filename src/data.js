@@ -47,12 +47,14 @@ var workExperience = [
   {
     order: 19,
     company: "Wordpress.com at Automattic",
-    title: "Code Wrangler - Team Lead",
+    title: "Code Wrangler - Team Lead - Dot Connector",
     location: "Sydney, Australia & USA",
     startDate: "July 2020",
     endDate: "Present",
     items: [
-      'I\'m team lead working on the theme and onboarding experience of WordPress.com.  My team and I impact millions of WordPress users. See my work in our onboarding at <a href="https://wordpress.comcom/start" target="_blank">WordPress.com/start</a> .'
+      'I\'m lead of a team working on the theme and onboarding experience of WordPress.com.  My team and I impact millions of WordPress users. See our work in our onboarding at <a href="https://wordpress.comcom/start" target="_blank">WordPress.com/start</a>.',
+      'I\'m particularly proud of my emphasis on product analysis and user outreach, areas which Automattic does not have dedicated roles. I make sure my team is focused on understanding how the UI we ship is functioning in the wild and how our customers perceive useability and value.',
+      'Automattic is a very flat organization and we have great freedom to define our roles and impact.  I gave myself the title Dot Connector. I excel at bringing disciplines together, putting knowledge and experience in the right place, and making sure my team always knows the value and the why of their good work.'
     ],
   },
   {
