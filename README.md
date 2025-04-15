@@ -1,4 +1,4 @@
-# autumnfjeld.com.2017
+# autumnfjeld.com
 
 My resume website
 Template theme from https://themeforest.net/user/dotrex
