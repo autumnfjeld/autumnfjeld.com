@@ -129,7 +129,14 @@ h3 {
 
 .btn-social {
     background-color: @color3;
+	border-radius: 36px;
     color: white;
+	font-size: 18px;
+	height: 36px;
+	line-height: 34px;
+	margin-right: 12px;
+	padding: 0;
+	width: 36px;
     &:hover {
         background: @color3 - #111!important;
         color: @bgcolor;
@@ -590,7 +597,9 @@ p {
 // other timeline images use with their psuedo element image overriding the progress-bar
 .timeline-progress {
     //noinspection CssUnknownTarget
-    background: url('../media/timeline-bg.png') repeat-x center center fixed @color2;  //make same color as background
+    // background: url('../media/timeline-bg.png') repeat-x center center fixed @color2;  //make same color as background
+    background: url('../media/timeline-bg.png') repeat-x center top fixed @color2;  //make same color as background
+
 	position: relative;
 	&:before {
 		content: '';
