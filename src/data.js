@@ -46,13 +46,13 @@ var general = {
 var workExperience = [
   {
     order: 19,
-    company: "Wordpress.com at Automattic",
+    company: "WordPress.com at Automattic",
     title: "Code Wrangler - Team Lead - Dot Connector",
     location: "Sydney, Australia & USA",
     startDate: "July 2020",
     endDate: "Present",
     items: [
-      'I\'m lead of a team working on the theme and onboarding experience of WordPress.com.  My team and I impact millions of WordPress users. See our work in our onboarding at <a href="https://wordpress.comcom/start" target="_blank">WordPress.com/start</a>.',
+      'I\'m lead of a team working on the theme and onboarding experience of WordPress.com.  My team and I impact millions of WordPress users. See our work in our onboarding at <a href="https://WordPress.comcom/start" target="_blank">WordPress.com/start</a>.',
       'I\'m particularly proud of my emphasis on product analysis and user outreach, areas which Automattic does not have dedicated roles. I make sure my team is focused on understanding how the UI we ship is functioning in the wild and how our customers perceive useability and value.',
       'Automattic is a very flat organization and we have great freedom to define our roles and impact.  I gave myself the title Dot Connector. I excel at bringing disciplines together, putting knowledge and experience in the right place, and making sure my team always knows the value and the why of their good work.'
     ],
@@ -66,7 +66,7 @@ var workExperience = [
     endDate: "Present",
     items: [
       `<a href="https://ustwo.com/" target="_blank">ustwo</a> is a digital design agency with offices around the globe. Below are the client projects I worked on.  `,
-      `<a href="https://qantas.com/" target="_blank">Qantas</a>: worked on the <a href="https://https://cardcompanion.qantas.com" target="_blank">Card Companion App</a>. Tech stack: AWS, Elastic search, GraphQL, React.`,
+      `<a href="https://qantas.com/" target="_blank">Qantas</a>: worked on the <a href="https://cardcompanion.qantas.com" target="_blank">Card Companion App</a>. Tech stack: AWS, Elastic search, GraphQL, React.`,
       '<a href="https://create.withgoogle.com/" target="_blank">Create with Google</a>: part of the founding product team that launched Create with Google suite of products. Responsible for the <a href="https://create.withgoogle.com/" target="_blank">website</a> and <a href="https://create.withgoogle.com/youtubemockuptool" target="_blank">YouTube Mockup Tool</a>. A project with intense deadlines during which, I wore many hats: sole full-stack dev on the Mockup Tool, dev lead on CMSification & improvement of the website, stakeholder management, on-boarding new ustwobies in agile process and QA. <br>  Website Stack: GAE, python/jinja/webapp. <br>  MockupTool stack: GAE, python/webapp, Angular6. <br>',
 
       '<a href="https://www.cochlear.com" target="_blank">Cochlear</a>: worked on "CoPilot", a pilot app designed to make use of hearing implant data to assist recipients in maximizing functionality of their implants for optimal hearing. In charge of python back-end, data crunching, and shepherding through AWS security architecture per Cochlear and regulatory standards.',
