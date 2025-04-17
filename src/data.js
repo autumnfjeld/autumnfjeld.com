@@ -519,7 +519,7 @@ var funFacts = [
   {
     title: "Traveling",
     blurb:
-      "I've lived on four continents: Africa, Europe, N. America, and Australia. And have traveled to all except Antarctica. Nothing is more thrilling than stepping into a new place on earth, eating tasty unfamiliar delicacies, smiling at new people, immersing in new cultures. Traveling and checking out the world is a must for me!  Some groovy explorations: Thailand, Bali, Auckland, Cuba, Baja California, Republic of Georgia, Portugal, Colombia, San Francisco, CA, Washington, D.C.",
+      "I've lived on four continents: Africa, Europe, N. America, and Australia. And have traveled to all except Antarctica. Nothing is more thrilling than stepping into a new place on earth, eating tasty unfamiliar delicacies, smiling at new people, immersing in new cultures. Some recent explorations: Thailand, Bali, Auckland, Cuba, Baja California, Republic of Georgia, Portugal, Colombia, San Francisco, CA, Washington, D.C.",
   },
   {
     title: "Austria",
