@@ -63,7 +63,7 @@ var workExperience = [
    
       'Worked on the precursor to the WordPress.com <a href="https://wordpress.com/ai-website-builder" target="_blank">AI site builder</a>. A design-you-own-site tool for assembling layout and custom styling on a WordPress site. Iterated on this product for over a year, evolving from a scrappy MVP to a polished guided flow.  Measured success regularly via customer interviews, user interaction analytics, and visual inspection of converted(paid) customer\'s launched sites.',
    
-      'Led the novel <a href="https://github.com/Automattic/create-content-model" target="_blank">Content Modeling project</a>bas part of a dev-focused marketing initiative to showcase how WordPress.com could creatively leverage new Core features to build modern content creation tools. Demoed to agencies as a proof of innovation and to boost WordPress.com’s appeal to technical audiences.',
+      'Led the novel <a href="https://github.com/Automattic/create-content-model" target="_blank">Content Modeling project</a> as part of a dev-focused marketing initiative to showcase how WordPress.com could creatively leverage new Core features to build modern content creation tools. Demoed to agencies as a proof of innovation and to boost WordPress.com’s appeal to technical audiences.',
   
       'Led a platform‑wide UI audit and execution effort across WordPress.com to separate WordPress Core features from WordPress.com hosting features—simplifying dozens of screens and reorganizing functionality into a cleaner information architecture.'
     ],
