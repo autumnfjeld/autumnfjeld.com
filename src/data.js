@@ -74,11 +74,11 @@ var workExperience = [
     title: "Full-stack Product Engineer",
     location: "Sydney, Australia",
     startDate: "Jan 2018",
-    endDate: "Present",
+    endDate: "June 2020",
     items: [
-      `<a href="https://ustwo.com/" target="_blank">ustwo</a> is a digital design agency with offices around the globe. Below are the client projects I worked on.  `,
-      `<a href="https://qantas.com/" target="_blank">Qantas</a>: worked on the <a href="https://cardcompanion.qantas.com" target="_blank">Card Companion App</a>. Tech stack: AWS, Elastic search, GraphQL, React.`,
-      '<a href="https://create.withgoogle.com/" target="_blank">Create with Google</a>: part of the founding product team that launched Create with Google suite of products. Responsible for the <a href="https://create.withgoogle.com/" target="_blank">website</a> and <a href="https://create.withgoogle.com/youtubemockuptool" target="_blank">YouTube Mockup Tool</a>. A project with intense deadlines during which, I wore many hats: sole full-stack dev on the Mockup Tool, dev lead on CMSification & improvement of the website, stakeholder management, on-boarding new ustwobies in agile process and QA. <br>  Website Stack: GAE, python/jinja/webapp. <br>  MockupTool stack: GAE, python/webapp, Angular6. <br>',
+      '<a href="https://ustwo.com/" target="_blank">ustwo</a> is a digital design agency with offices around the globe. Below are the client projects I worked on.',
+      '<a href="https://qantas.com/" target="_blank">Qantas</a>: worked on the <a href="https://cardcompanion.qantas.com" target="_blank">Card Companion App</a>. Tech stack: AWS, Elastic search, GraphQL, React.',
+      '<a href="https://create.withgoogle.com/" target="_blank">Create with Google</a>: part of the founding product team that launched Create with Google suite of products. Responsible for the <a href="https://create.withgoogle.com/" target="_blank">website</a> and <a href="https://create.withgoogle.com/youtubemockuptool" target="_blank">YouTube Mockup Tool</a>. A project with intense deadlines during which, I wore many hats: sole full-stack dev on the Mockup Tool, dev lead on CMSification & improvement of the website, stakeholder management, on-boarding new ustwobies in agile process and QA.  Website Stack: GAE, python/jinja/webapp.  MockupTool stack: GAE, python/webapp, Angular6. <br>',
 
       '<a href="https://www.cochlear.com" target="_blank">Cochlear</a>: worked on "CoPilot", a pilot app designed to make use of hearing implant data to assist recipients in maximizing functionality of their implants for optimal hearing. In charge of python back-end, data crunching, and shepherding through AWS security architecture per Cochlear and regulatory standards.',
 
