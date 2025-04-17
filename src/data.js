@@ -47,14 +47,25 @@ var workExperience = [
   {
     order: 19,
     company: "WordPress.com at Automattic",
-    title: "Code Wrangler - Team Lead - Dot Connector",
-    location: "Sydney, Australia & USA",
+    title: "Product Engineering Lead",
+    location: "Remote",
     startDate: "July 2020",
-    endDate: "Present",
+    endDate: "April 202",
+    companyBlurb: "WordPress.com is a hosted blogging platform and website builder. Automattic is the parent company of WordPress.com, WooCommerce Jetpack, and many other products.",
     items: [
-      'I\'m lead of a team working on the theme and onboarding experience of WordPress.com.  My team and I impact millions of WordPress users. See our work in our onboarding at <a href="https://WordPress.com/setup/onboarding" target="_blank">WordPress.com/setup/onboarding</a>.',
-      'I\'m particularly proud of my emphasis on product analysis and user outreach, areas which Automattic does not have dedicated roles. I make sure my team is focused on understanding how the UI we ship is functioning in the wild and how our customers perceive useability and value.',
-      'Automattic is a very flat organization and we have great freedom to define our roles and impact.  I gave myself the title Dot Connector. I excel at bringing disciplines together, putting knowledge and experience in the right place, and making sure my team always knows the value and the why of their good work.'
+      'Worked in the  <a href="https://github.com/Automattic/wp-calypso" target="_blank">WordPress.com front-end</a>, a modern, open-source application built on  React, Redux, enabling real-time, multi-site management for millions of WP sites via the WordPress.com REST API.',
+     
+      'Managed multiple engineering teams for four years. Developed new leads. Told by many team members that I was one of the best leads they’ve ever had.  My leadership and team success was validated by the challenging, high profile projects given to my teams.',
+    
+      // 'Reached across divisions and functions to do the work that was needed, never siloed our work or limited my team to just do what was given to us.',
+    
+      'Often stepped up to lead large, complex, multi-team initiatives. Used user behavior research to make data informed decisions, created clarity from ambiguity, facilitated discussions with those who have key knowledge or position to move work forward.  Kept engineers focused on business-value-efforts.  Pushed for action that added value for the customer.',
+   
+      'Worked on the precursor to the WordPress.com <a href="https://wordpress.com/ai-website-builder" target="_blank">AI site builder</a>. A design-you-own-site tool for assembling layout and custom styling on a WordPress site. Iterated on this product for over a year, evolving from a scrappy MVP to a polished guided flow.  Measured success regularly via customer interviews, user interaction analytics, and visual inspection of converted(paid) customer\'s launched sites.',
+   
+      'Led the novel <a href="https://github.com/Automattic/create-content-model" target="_blank">Content Modeling project</a>bas part of a dev-focused marketing initiative to showcase how WordPress.com could creatively leverage new Core features to build modern content creation tools. Demoed to agencies as a proof of innovation and to boost WordPress.com’s appeal to technical audiences.',
+  
+      'Led a platform‑wide UI audit and execution effort across WordPress.com to separate WordPress Core features from WordPress.com hosting features—simplifying dozens of screens and reorganizing functionality into a cleaner information architecture.'
     ],
   },
   {
