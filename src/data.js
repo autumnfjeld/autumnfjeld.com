@@ -473,12 +473,12 @@ var skills = [
     ],
   },
   {
-    title: "Professional Skills",
+    title: "Leadership Skills",
     skills: [
       {
         id: 1,
         colorId: 1,
-        skill: "Communicator",
+        skill: "Deliberate communicator",
         completed: "95%",
         toolTip:
           "I strive to keep coworkers informed and clearly communicate ideas and documentation",
@@ -486,19 +486,19 @@ var skills = [
       {
         id: 2,
         colorId: 2,
-        skill: "Team Player",
+        skill: "Stakeholder management",
         completed: "90%",
       },
       {
         id: 3,
         colorId: 3,
-        skill: "Driven",
+        skill: "Distilling ambiguity",
         completed: "90%",
       },
       {
         id: 4,
         colorId: 4,
-        skill: "Introspective",
+        skill: "Motivator",
         completed: "99%",
       },
       {
