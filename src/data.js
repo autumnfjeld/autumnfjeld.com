@@ -50,16 +50,18 @@ var workExperience = [
     title: "Product Engineering Lead",
     location: "Remote",
     startDate: "July 2020",
-    endDate: "April 202",
+    endDate: "April 2025",
     companyBlurb: "WordPress.com is a hosted blogging platform and website builder. Automattic is the parent company of WordPress.com, WooCommerce Jetpack, and many other products.",
     items: [
+      'Automattic is the company behind Wordpress.com, Jetpack, WooCommerce, and the open source WordPress project.  WordPress powers 43% of the world’s websites.',
+
       'Worked in the  <a href="https://github.com/Automattic/wp-calypso" target="_blank">WordPress.com front-end</a>, a modern, open-source application built on  React, Redux, enabling real-time, multi-site management for millions of WP sites via the WordPress.com REST API.',
      
       'Managed multiple engineering teams for four years. Developed new leads. Told by many team members that I was one of the best leads they’ve ever had.  My leadership and team success was validated by the challenging, high profile projects given to my teams.',
     
-      // 'Reached across divisions and functions to do the work that was needed, never siloed our work or limited my team to just do what was given to us.',
+      'Reached across divisions and functions to do the work that was needed, never siloed our work or limited my team to just do what was given to us.',
     
-      'Often stepped up to lead large, complex, multi-team initiatives. Used user behavior research to make data informed decisions, created clarity from ambiguity, facilitated discussions with those who have key knowledge or position to move work forward.  Kept engineers focused on business-value-efforts.  Pushed for action that added value for the customer.',
+      'Led large, complex, multi-team initiatives. Used user behavior research to make data informed decisions, created clarity from ambiguity, facilitated discussions with those who have key knowledge or position to move work forward.  Kept engineers focused on business-value-efforts.  Pushed for action that added value for the customer.',
    
       'Worked on the precursor to the WordPress.com <a href="https://wordpress.com/ai-website-builder" target="_blank">AI site builder</a>. A design-you-own-site tool for assembling layout and custom styling on a WordPress site. Iterated on this product for over a year, evolving from a scrappy MVP to a polished guided flow.  Measured success regularly via customer interviews, user interaction analytics, and visual inspection of converted(paid) customer\'s launched sites.',
    
@@ -78,7 +80,7 @@ var workExperience = [
     items: [
       '<a href="https://ustwo.com/" target="_blank">ustwo</a> is a digital design agency with offices around the globe. Below are the client projects I worked on.',
       '<a href="https://qantas.com/" target="_blank">Qantas</a>: worked on the <a href="https://cardcompanion.qantas.com" target="_blank">Card Companion App</a>. Tech stack: AWS, Elastic search, GraphQL, React.',
-      '<a href="https://create.withgoogle.com/" target="_blank">Create with Google</a>: part of the founding product team that launched Create with Google suite of products. Responsible for the <a href="https://create.withgoogle.com/" target="_blank">website</a> and <a href="https://create.withgoogle.com/youtubemockuptool" target="_blank">YouTube Mockup Tool</a>. A project with intense deadlines during which, I wore many hats: sole full-stack dev on the Mockup Tool, dev lead on CMSification & improvement of the website, stakeholder management, on-boarding new ustwobies in agile process and QA.  Website Stack: GAE, python/jinja/webapp.  MockupTool stack: GAE, python/webapp, Angular6. <br>',
+      '<a href="https://www.google.com/search?q=create+with+google" target="_blank">Create with Google</a>: part of the founding product team that launched Create with Google suite of products (now called Think with Google).  Worked on the <a href="https://create.withgoogle.com/" target="_blank">create.withgoogle.com website</a> and <a href="https://create.withgoogle.com/youtubemockuptool" target="_blank">YouTube Mockup Tool</a>. A project with intense deadlines where I wore many hats: sole full-stack dev on the Mockup Tool, dev lead on CMSification & improvement of the website, stakeholder management, on-boarding new ustwobies in agile process and QA.  Website Stack: GAE, python/jinja/webapp.  MockupTool stack: GAE, python/webapp, Angular6.',
 
       '<a href="https://www.cochlear.com" target="_blank">Cochlear</a>: worked on "CoPilot", a pilot app designed to make use of hearing implant data to assist recipients in maximizing functionality of their implants for optimal hearing. In charge of python back-end, data crunching, and shepherding through AWS security architecture per Cochlear and regulatory standards.',
 
@@ -98,7 +100,7 @@ var workExperience = [
     startDate: "Then",
     endDate: "Always",
     items: [
-      'Built this site starting with a pre-designed html/css template, a great learning experience in design and layout. Hosted on WordPress, served up from AWS S3, with AWS Microservices for the contact form.',
+      'Built autumnfjeld.com. Hosted on AWS, served up from AWS S3, with AWS Microservices for the contact form.',
       'Built a site for a Computational Materials research group at the University of California Riverside utilizing AWS tools: a multi-part site hosted on S3 with Microservices to handle dynamic content. Technical goals for this project included maximizing use of flexbox, using npm for all build steps, creating a scripting process to parse <a href="http://www.bibtex.org/Format" target="_blank">bibtex</a> journal listings into interactive html content. <a href="https://github.com/autumnfjeld/dralexgreaney" target="_blank">Github repo.</a> ',
       'Design education via Coursera\'s <a href="https://www.coursera.org/specializations/graphic-design" target="_blank">Graphic Design Specialization</a> created by California Institute of the Arts.',
     ],
@@ -111,11 +113,11 @@ var workExperience = [
     startDate: "Apr 2016",
     endDate: "Nov 2018",
     items: [
-      "Full-stack software engineer, with front-end emphasis, building and maintaining enterprise recruiting web application. Tech stack: Java, PHP, Javascript (Backbone, Ractive).",
+      "Full-stack software engineer, with front-end emphasis, built and maintained enterprise recruiting web application. Tech stack: Java, PHP, Javascript (Backbone, Ractive).",
       "Architect new code patterns with modern frameworks to replace, or coexist with, legacy code.",
-      "Building chrome extension app that is a mini-version of our main site which pulls data from social network sites to match profiles in our database.",
-      "Helping a growing team migrate from start-up culture to a well-defined agile-scrum work process. Creating documentation, proactively recommend improvements in communication and tools (git, slack, zapier, etc.).",
-      "Run team lunch & learn sessions, motivating team to share technical learnings and challenges.",
+      "Built chrome extension app, a mini-version of our main site that pulls data from social network sites to match existing profiles in our database.",
+      "Helped a growing team migrate from start-up culture to a well-defined agile-scrum work process. Created documentation, proactively recommend improvements in communication and tools (git, slack, zapier, wiki).",
+      "Ran team lunch & learn sessions, motivated team to share technical learnings and challenges.",
       "Ruthless about getting team members to document their work in our git wiki!",
       "Supervised two computer science interns, guiding them through the complexities of a large codebase and teaching them in first experiences in front-end web development.",
     ],
@@ -144,7 +146,7 @@ var workExperience = [
     endDate: "Apr 2014",
     items: [
       "Part of a team contracted to develop prototype for commercial app. Designed back-end schema in Firebase, chosen for simple login authentication, direct database reference binding.",
-      "Built app in AngularJS architecture, ported to mobile with Cordova and styled with Ionic.  Enforced strict modularity in AngularJS controllers and services to create efficient team workflow.",
+      "Built an app in AngularJS architecture, ported to mobile with Cordova and styled with Ionic.  Enforced strict modularity in AngularJS controllers and services to create efficient team workflow.",
       'Built a d3.js interactive force directed graph as an AngularJS directive, allowing users to click on a url-node to create an expansive node map of Wikipedia articles. <a href="http://wikiviz.herokuapp.com" target="_blank">Wikiviz</a>',
       // '#[a(href="http://wikiviz.herokuapp.com") Wikiviz]    #{#[a link](http://example.com)}}',
     ],
@@ -157,7 +159,7 @@ var workExperience = [
     startDate: "Nov 2010",
     endDate: "Apr 2012",
     items: [
-      "Provided consulting support to engineers at Boeing, Honeywell, etc. on using NUMECA’s computational fluid dynamics software tools, delivering solutions in meshing, solver setup, and post-processing.",
+      "Provided consulting support to engineers at Boeing, Honeywell, SpaceX on using NUMECA’s computational fluid dynamics software tools, delivering solutions in meshing, solver setup, and post-processing.",
       "Improved fluid dynamics and meshing software as an integral part of the feedback loop for identifying and troubleshooting software bugs, user-friendliness, and scientific accuracy issues.",
       "Created and delivered technical training webinars twice a month to NUMECA’s user base.",
     ],
@@ -519,12 +521,12 @@ var funFacts = [
   {
     title: "Traveling",
     blurb:
-      "I've lived on four continents: Africa, Europe, N. America, and Australia. And have traveled to all except Antarctica. Nothing is more thrilling than stepping into a new place on earth, eating tasty unfamiliar delicacies, smiling at new people, immersing in new cultures. Some recent explorations: Thailand, Bali, Auckland, Cuba, Baja California, Republic of Georgia, Portugal, Colombia, San Francisco, CA, Washington, D.C.",
+      "I've lived on four continents: Africa, Europe, N. America, and Australia. And have traveled to all except Antarctica. Nothing is more thrilling than stepping into a new place on earth, eating tasty unfamiliar delicacies, smiling at new people, immersing oneself in a new culture. Some recent explorations: Thailand, Bali, Auckland, Cuba, Baja California, Republic of Georgia, Portugal, Colombia, San Francisco, CA, Washington, D.C.",
   },
   {
     title: "Austria",
     blurb:
-      "I was a post-doctoral researcher at a university in Austria for four years, in my computational fluid dynamics phase of life.  While there I was determined to become fluent in German and started weekly German-learning conversational group for us foreigners living in Leoben, Austria. I still work to improve my German skills via social groups and classes at a local community college.",
+      "I was a post-doctoral researcher at a university in Austria for over four years, in my computational fluid dynamics phase of life.  While there I was determined to become fluent in German and started weekly German-learning conversational group for us foreigners living in Leoben, Austria. Basic fluency achieved, even with the Austrian dialect!",
   },
   {
     title: "Creativity",
@@ -539,11 +541,11 @@ var funFacts = [
   {
     title: "Reading",
     blurb:
-      "I received a trophy for reading 100 books in first grade--thank you Mom!  Now I generally divide my reading time between novels, skill improvement books, and <i>The New Yorker</i>.  Some of my favorite recent reads:  <i>Tomorrow, and Tomorrow, and Tomorrow</i>, <i>Mating</i>, <i>Lessons from the Edge: A Memoir</i>, <i>The Short and Tragic LIfe of Robert Peace</i>, <i>Creativity, Inc.</i>, <i>Beautiful Ruins</i>, <i>Where'd You Go Bernadette</i>.",
+      "I received a trophy for reading 100 books in first grade--thank you Mom!  Now I generally divide my reading time between novels, skill improvement books, and <i>The New Yorker</i>.  Some of my favorite recent reads:  <i> The Rabbit Hutch</i> <i>Tomorrow, and Tomorrow, and Tomorrow</i>, <i>Lessons in Chemistry</i>, <i>Lessons from the Edge: A Memoir</i>, <i>The Short and Tragic LIfe of Robert Peace</i>, <i>Creativity, Inc.</i>, <i>Beautiful Ruins</i>, <i>Where'd You Go Bernadette</i>.",
   },
   {
       title: 'Bucket List',
-      blurb: 'Learn spanish fluently. Learn to play a musical instrument. Become a fashion designer (this one might have to wait til in my next life). Do something meaningful to get more girls into STEM fields. Visit all 50 US states & Puerto Rico. Become a foreign diplomat (this life is tooooo short!).'
+      blurb: 'Learn spanish fluently. Learn to play a musical instrument. Become a fashion designer (this one might have to wait til in my next life). Do something meaningful to get more girls into STEM fields. Visit all 50 US states & Puerto Rico. Become a foreign diplomat (possibly a stretch for this lifetime).'
   },
 ];
 
