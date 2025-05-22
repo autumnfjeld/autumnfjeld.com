@@ -9,7 +9,7 @@ var general = {
   lastName: "Fjeld",
   email: "autumnfjeld@gmail.com",
   careerTitle: "Product Engineering Lead",
-  resumeLink: "media/Autumn_Fjeld_Resume_20171123.pdf",
+  resumeLink: "media/AutumnFjeld_Resume_20250521.pdf",
   webProfiles: {
     linkedIn: {
       url: "https://www.linkedin.com/in/autumnfjeld",
