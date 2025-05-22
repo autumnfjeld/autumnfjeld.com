@@ -8,7 +8,7 @@ var general = {
   firstName: "Autumn",
   lastName: "Fjeld",
   email: "autumnfjeld@gmail.com",
-  careerTitle: "Product Engineering Lead",
+  careerTitle: "Product Engineering Lead • Technical Product Manager",
   resumeLink: "media/AutumnFjeld_Resume_20250521.pdf",
   webProfiles: {
     linkedIn: {
@@ -63,9 +63,9 @@ var workExperience = [
     
       'Led large, complex, multi-team initiatives. Used user behavior research to make data informed decisions, created clarity from ambiguity, facilitated discussions with those who have key knowledge or position to move work forward.  Kept engineers focused on business-value-efforts.  Pushed for action that added value for the customer.',
    
-      'Worked on the precursor to the WordPress.com <a href="https://wordpress.com/ai-website-builder" target="_blank">AI site builder</a>. A design-you-own-site tool for assembling layout and custom styling on a WordPress site. Iterated on this product for over a year, evolving from a scrappy MVP to a polished guided flow.  Measured success regularly via customer interviews, user interaction analytics, and visual inspection of converted(paid) customer\'s launched sites.',
+      'Worked on the precursor to the WordPress.com <a href="https://wordpress.com/ai-website-builder" target="_blank">AI site builder</a>. A design-you-own-site tool for assembling layout and custom styling on a WordPress site. Iterated on this product for over a year, evolving from a scrappy MVP to a polished guided flow.  Measured success regularly via customer interviews, user interaction analytics, and visual inspection of converted(paid) customer\'s launched sites.  See my related WordCamp talk <a href="https://sydney.wordcamp.org/2024/session/design-for-devs-making-the-most-of-patterns/" target="_blank">Design for Devs</a>.',
    
-      'Led the novel <a href="https://github.com/Automattic/create-content-model" target="_blank">Content Modeling project</a> as part of a dev-focused marketing initiative to showcase how WordPress.com could creatively leverage new Core features to build modern content creation tools. Demoed to agencies as a proof of innovation and to boost WordPress.com’s appeal to technical audiences.',
+      'Led the novel <a href="https://github.com/Automattic/create-content-model" target="_blank">Content Modeling project</a> as part of a dev-focused marketing initiative to showcase how WordPress.com could creatively leverage new Core features to build modern content creation tools. Demoed to agencies as a proof of innovation and to boost WordPress.com’s appeal to technical audiences. See my WordCamp Asia 2025M talk <a href="https://youtu.be/nKntUgxnZuY?list=PL1pJFUVKQ7ET119A4Gb2bBfRFYSEbJlDB&t=3840" target="_blank">Content Modeling</a>.',
   
       'Led a platform‑wide UI audit and execution effort across WordPress.com to separate WordPress Core features from WordPress.com hosting features—simplifying dozens of screens and reorganizing functionality into a cleaner information architecture.'
     ],
@@ -208,6 +208,43 @@ var workExperience = [
  * @type {*[]}
  */
 var skills = [
+  {
+    title: "Product & Leadership",
+    skills: [
+      {
+        id: 1,
+        colorId: 1,
+        skill: "Deliberate communicator",
+        completed: "95%",
+        toolTip:
+          "I strive to keep coworkers informed and clearly communicate ideas and documentation",
+      },
+      {
+        id: 2,
+        colorId: 2,
+        skill: "Stakeholder management",
+        completed: "90%",
+      },
+      {
+        id: 3,
+        colorId: 3,
+        skill: "Distilling ambiguity",
+        completed: "90%",
+      },
+      {
+        id: 4,
+        colorId: 4,
+        skill: "Motivator",
+        completed: "99%",
+      },
+      {
+        id: 4,
+        colorId: 1,
+        skill: "Fun!",
+        completed: "99%",
+      },
+    ],
+  },
   {
     title: "Languages",
     skills: [
@@ -474,43 +511,7 @@ var skills = [
       },
     ],
   },
-  {
-    title: "Leadership Skills",
-    skills: [
-      {
-        id: 1,
-        colorId: 1,
-        skill: "Deliberate communicator",
-        completed: "95%",
-        toolTip:
-          "I strive to keep coworkers informed and clearly communicate ideas and documentation",
-      },
-      {
-        id: 2,
-        colorId: 2,
-        skill: "Stakeholder management",
-        completed: "90%",
-      },
-      {
-        id: 3,
-        colorId: 3,
-        skill: "Distilling ambiguity",
-        completed: "90%",
-      },
-      {
-        id: 4,
-        colorId: 4,
-        skill: "Motivator",
-        completed: "99%",
-      },
-      {
-        id: 4,
-        colorId: 1,
-        skill: "Fun!",
-        completed: "99%",
-      },
-    ],
-  },
+
 ];
 
 /**
