@@ -10269,10 +10269,6 @@ p {
 /* ==========================================================
 ! 8. Vertical Timeline
 ========================================================== */
-.timeline-intro .btn-social {
-  background-color: #755198;
-  color: white;
-}
 .timeline-wrap {
   position: relative;
   z-index: 88;
@@ -10314,7 +10310,7 @@ p {
   background-size: 400px 500px;
 }
 .timeline-work:before {
-  background: url('../media/progress-work3.png') no-repeat center center;
+  background: url('../media/progress-work3.png') repeat center center;
   background-size: 400px 500px;
 }
 .timeline-mail:before {
@@ -10438,9 +10434,11 @@ p {
   display: inline-block;
   font-weight: normal;
   line-height: 1.4;
-  min-width: 120px;
+  min-width: 130px;
   margin: 6px 14px;
   padding: .3em .6em;
+  max-width: 130px;
+  white-space: unset;
 }
 /* ==========================================================
 ! 11. Section: Portfolio
@@ -10764,10 +10762,6 @@ textarea.form-control {
 ========================================================== */
 /*Safari*/
 @media (min-width:992px) {
-}
-.safari .btn {
-  display: inline;
-  padding-top: 5px;
 }
 .safari .side-menu-button {
   display: block;
