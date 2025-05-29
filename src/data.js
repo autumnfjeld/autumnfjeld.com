@@ -8,9 +8,13 @@ var general = {
   firstName: "Autumn",
   lastName: "Fjeld",
   email: "autumnfjeld@gmail.com",
-  careerTitle: "Product Engineering Lead • Technical Product Manager",
+  careerTitle: "Technical Product Manager • Product Engineer",
   resumeLink: "media/AutumnFjeld_Resume_20250521.pdf",
   webProfiles: {
+    theautbot: {
+      url: "https://autbot.vercel.app",
+      icon: "fa-female",
+    },
     linkedIn: {
       url: "https://www.linkedin.com/in/autumnfjeld",
       icon: "fa-linkedin",
@@ -54,35 +58,38 @@ var workExperience = [
     companyBlurb: "WordPress.com is a hosted blogging platform and website builder. Automattic is the parent company of WordPress.com, WooCommerce Jetpack, and many other products.",
     items: [
       'Automattic is the company behind Wordpress.com, Jetpack, WooCommerce, and the open source WordPress project.  WordPress powers 43% of the world’s websites.',
+      
+      '<b>Evolved the signup and onboarding funnel</b>, via iterative development in the steps where  new users create accounts, select domains and pricing plans, and begin their site-building journey. Balanced user experience with business impact in a technically complex product, experimenting with funnel steps like paywall placement and niche onboarding pathways. Drove changes based on behavioral analytics (drop-offs, refund rates, early churn) and qualitative feedback, optimizing for conversion and revenue.',
 
-      'Worked in the  <a href="https://github.com/Automattic/wp-calypso" target="_blank">WordPress.com front-end</a>, a modern, open-source application built on  React, Redux, enabling real-time, multi-site management for millions of WP sites via the WordPress.com REST API.',
-     
-      'Managed multiple engineering teams for four years. Developed new leads. Told by many team members that I was one of the best leads they’ve ever had.  My leadership and team success was validated by the challenging, high profile projects given to my teams.',
-    
-      'Reached across divisions and functions to do the work that was needed, never siloed our work or limited my team to just do what was given to us.',
-    
-      'Led large, complex, multi-team initiatives. Used user behavior research to make data informed decisions, created clarity from ambiguity, facilitated discussions with those who have key knowledge or position to move work forward.  Kept engineers focused on business-value-efforts.  Pushed for action that added value for the customer.',
-   
-      'Worked on the precursor to the WordPress.com <a href="https://wordpress.com/ai-website-builder" target="_blank">AI site builder</a>. A design-you-own-site tool for assembling layout and custom styling on a WordPress site. Iterated on this product for over a year, evolving from a scrappy MVP to a polished guided flow.  Measured success regularly via customer interviews, user interaction analytics, and visual inspection of converted(paid) customer\'s launched sites.  See my related WordCamp talk <a href="https://sydney.wordcamp.org/2024/session/design-for-devs-making-the-most-of-patterns/" target="_blank">Design for Devs</a>.',
-   
-      'Led the novel <a href="https://github.com/Automattic/create-content-model" target="_blank">Content Modeling project</a> as part of a dev-focused marketing initiative to showcase how WordPress.com could creatively leverage new Core features to build modern content creation tools. Demoed to agencies as a proof of innovation and to boost WordPress.com’s appeal to technical audiences. See my WordCamp Asia 2025M talk <a href="https://youtu.be/nKntUgxnZuY?list=PL1pJFUVKQ7ET119A4Gb2bBfRFYSEbJlDB&t=3840" target="_blank">Content Modeling</a>.',
+       '<b>Launched the Design-Your-Own site builder</b>, the precursor to <a href="http://WordPress.com" target="_blank">WordPress.com AI site builder</a>. Drove engagement in customer onboarding, by creating invested users early in the onboarding funnel. Measured success regularly via customer interviews, user behavior analytics, and visual review of the hundreds of sites of converted (paid) customers.Featured in a <a href="https://wordpress.com/blog/2023/05/30/custom-theme-designs/" target="_blank">WordPress.com blog post</a> and <a href="https://sydney.wordcamp.org/2024/session/design-for-devs-making-the-most-of-patterns/" target="_blank"> WordCamp Sydney 2024 talk</a>. ',
+
+      '<b>Directed a platform-wide UI and IA simplification initiative</b>, decoupling WordPress.com hosting from WordPress Core site building features. Required meticulous analysis of entangled functionality, feature usage and revenue statistics, and collaboration across multiple WordPress ecosystems to ensure methodical product consolidation. See announcements <a href="https://wordpress.com/blog/2024/03/04/new-wp-admin/" target="_blank">new-wp-admin</a> and <a href="https://wordpress.com/blog/2024/06/10/hosting-dashboard/" target="_blank">hosting-dashboard</a>. ',
+
+      '<b>Led the Content Modeling plugin development </b>, an agency marketing initiative that showcased our creative leveraging of the latest WordPress features to build a new <a href="https://github.com/Automattic/create-content-model" target="_blank">content creation tool</a>.  Created business opportunity leads by demoing the project to agencies as a proof of innovation and to boost WordPress.com\'s appeal to technical customers. Generated excitement in <a href="https://youtu.be/nKntUgxnZuY?list=PL1pJFUVKQ7ET119A4Gb2bBfRFYSEbJlDB&t=3423" target="_blank">the open source community} on the potential of new Editor features. ',
+
+      '<b>Led as a force multiplier</b>, creating high performing teams who were given the hard projects. Introduced product analytics training, customer outreach processes, made every team meeting a place for feedback and introspection, developed new leads, and ensured my team was never siloed or satisfied with just what was assigned to us.',
+
+      '<b>Engaged with the community</b>, leading in-product customer interviews, usability sessions, and behavior analysis, in addition to creative local and global outreach. At conferences like WordCamp I volunteered, worked booths, gave feature-focused talks, and ran impromptu guerrilla usability tests with attendees willing to show me how they used the product. These conversations often revealed friction points and unmet needs that didn\'t surface in analytics alone. ',
   
-      'Led a platform‑wide UI audit and execution effort across WordPress.com to separate WordPress Core features from WordPress.com hosting features—simplifying dozens of screens and reorganizing functionality into a cleaner information architecture.'
     ],
   },
   {
     order: 18,
-    company: "ustwo",
+    company: "ustwo Digital Design Agency", 
     title: "Full-stack Product Engineer",
     location: "Sydney, Australia",
     startDate: "Jan 2018",
     endDate: "June 2020",
     items: [
       '<a href="https://ustwo.com/" target="_blank">ustwo</a> is a digital design agency with offices around the globe. Below are the client projects I worked on.',
-      '<a href="https://qantas.com/" target="_blank">Qantas</a>: worked on the <a href="https://cardcompanion.qantas.com" target="_blank">Card Companion App</a>. Tech stack: AWS, Elastic search, GraphQL, React.',
-      '<a href="https://www.google.com/search?q=create+with+google" target="_blank">Create with Google</a>: part of the founding product team that launched Create with Google suite of products (now called Think with Google).  Worked on the <a href="https://create.withgoogle.com/" target="_blank">create.withgoogle.com website</a> and <a href="https://create.withgoogle.com/youtubemockuptool" target="_blank">YouTube Mockup Tool</a>. A project with intense deadlines where I wore many hats: sole full-stack dev on the Mockup Tool, dev lead on CMSification & improvement of the website, stakeholder management, on-boarding new ustwobies in agile process and QA.  Website Stack: GAE, python/jinja/webapp.  MockupTool stack: GAE, python/webapp, Angular6.',
 
-      '<a href="https://www.cochlear.com" target="_blank">Cochlear</a>: worked on "CoPilot", a pilot app designed to make use of hearing implant data to assist recipients in maximizing functionality of their implants for optimal hearing. In charge of python back-end, data crunching, and shepherding through AWS security architecture per Cochlear and regulatory standards.',
+      '<a href="https://www.google.com/search?q=create+with+google" target="_blank">Create with Google</a>: (Rebranded to Think with Google) Part of the founding product team that launched Create with Google suite of products (now called Think with Google).  Delivered two projects under Google\'s infrastructure standards. Managed dev-side stakeholder/client management. Primary full-stack engineer for the YouTube Mockup Tool (GAE, Python, Webapp2, Angular) and technical lead on CMS rebuild of the Create with Google website (GAE, Python, Jinja).',
+
+      
+      '<a href="https://qantas.com/" target="_blank">Qantas</a>: Built the <a href="https://cardcompanion.qantas.com" target="_blank">Card Companion App</a> (React, Node.js, TypeScript, GraphQL). Designed and implemented backend architecture hosted on AWS.  Collaborated directly with Qantas tech leads and ensured compliance with rigorous enterprise security and QA practices',
+      
+
+      '<a href="https://www.cochlear.com" target="_blank">Cochlear</a>: Developed "CoPilot", a pilot app designed to make use of hearing implant data to assist recipients in maximizing functionality of their implants for optimal hearing. In charge of python back-end, data crunching, and shepherding through AWS security architecture per Cochlear and regulatory standards.',
 
       '<a href="https://www.bluecats.com/" target="_blank">BlueCats</a>: sole engineer responsible for all technical decisions: tech stack, build pipeline, and hosting. Site built in Angular7, hosted on Netlify, with Contentful CMS.',
 
@@ -135,20 +142,6 @@ var workExperience = [
       "Refactored many parts of chaotic, legacy codebase to maintainability and sanity (SASS, Angular best practices).",
       "Solved load time problems for large list of images, via ImageMagick script to produce uniform images, at the right balance of size and quality for optimal page performance. Continually strove for pixel perfect UI/UX.",
       "Managed collaborations between lead developer and non-technical president, supervised two junior engineers and an assistant to develop her technical graphic design skills.",
-    ],
-  },
-  {
-    order: 13,
-    company: "Hack Reactor",
-    title: "Student",
-    location: "San Francisco",
-    startDate: "Jan 2014",
-    endDate: "Apr 2014",
-    items: [
-      "Part of a team contracted to develop prototype for commercial app. Designed back-end schema in Firebase, chosen for simple login authentication, direct database reference binding.",
-      "Built an app in AngularJS architecture, ported to mobile with Cordova and styled with Ionic.  Enforced strict modularity in AngularJS controllers and services to create efficient team workflow.",
-      'Built a d3.js interactive force directed graph as an AngularJS directive, allowing users to click on a url-node to create an expansive node map of Wikipedia articles. <a href="http://wikiviz.herokuapp.com" target="_blank">Wikiviz</a>',
-      // '#[a(href="http://wikiviz.herokuapp.com") Wikiviz]    #{#[a link](http://example.com)}}',
     ],
   },
   {
