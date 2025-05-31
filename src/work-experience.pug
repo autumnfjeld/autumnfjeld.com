@@ -27,6 +27,8 @@ section#work-experience.timeline
                             span.job-date= ' ' +    job.location
                             span   &middot;
                             span.job-date=  '  ' +   job.startDate + ' - '+ job.endDate
+                    div
+                        p.company-description!= job.description
                     .job-description
                         ul
                             for item in job.items
