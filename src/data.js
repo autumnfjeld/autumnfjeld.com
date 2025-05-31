@@ -512,31 +512,35 @@ var funFacts = [
   {
     title: "Traveling",
     blurb:
-      "I've lived on four continents: Africa, Europe, N. America, and Australia. And have traveled to all except Antarctica. Nothing is more thrilling than stepping into a new place on earth, eating tasty unfamiliar delicacies, smiling at new people, immersing oneself in a new culture. Some recent explorations: Thailand, Bali, Auckland, Cuba, Baja California, Republic of Georgia, Portugal, Colombia, San Francisco, CA, Washington, D.C.",
+      "🌏 I've lived on four continents: Africa, Europe, N. America, and Australia. And have traveled to all except Antarctica. Nothing is more thrilling than stepping into a new place on earth, eating tasty unfamiliar delicacies, smiling at new people, immersing oneself in a new culture. Some recent explorations: Thailand, Bali, Auckland, Cuba, Baja California, Republic of Georgia, Portugal, Colombia, San Francisco, CA, Washington, D.C.",
   },
   {
     title: "Austria",
     blurb:
-      "I was a post-doctoral researcher at a university in Austria for over four years, in my computational fluid dynamics phase of life.  While there I was determined to become fluent in German and started weekly German-learning conversational group for us foreigners living in Leoben, Austria. Basic fluency achieved, even with the Austrian dialect!",
+      "🇦🇹 I was a post-doctoral researcher at a university in Austria for over four years, in my computational fluid dynamics phase of life.  While there I was determined to become fluent in German and started weekly German-learning conversational group for us foreigners living in Leoben, Austria. Basic fluency achieved, even with the Austrian dialect!",
   },
   {
     title: "Creativity",
     blurb:
-      "Occasional creator of colorful clothes, jewelry, bags (when I have time to dust off my sewing machine). I thrive on color. The combination of tech and creativity is why I fit so well in web development and design--and why I left Materials Science for WebDev. Current projects include painting the house I bought in 2020 every fun color possible!",
+      "🎨 Occasional creator of colorful clothes, jewelry, bags (when I have time to dust off my sewing machine). I thrive on color. The combination of tech and creativity is why I fit so well in web development and design--and why I left Materials Science for WebDev. Current projects include painting the house I bought in 2020 every fun color possible!",
   },
   {
     title: "Volunteering",
     blurb:
-      "I was a math tutor volunteer in a San Francisco middle-school, helping kids who are struggling with math meet state education requirements.  I've been a volunteer in many different roles over the years.  Past volunteer experiences: tutor for Women Who Code, high school prep classes for underprivileged kids. I wish I did more of this.",
+      "🧑‍🤝‍🧑 I was a math tutor volunteer in a San Francisco middle-school, helping kids who are struggling with math meet state education requirements.  I've been a volunteer in many different roles over the years.  Past volunteer experiences: tutor for Women Who Code, high school prep classes for underprivileged kids. I wish I did more of this.",
   },
   {
     title: "Reading",
     blurb:
-      "I received a trophy for reading 100 books in first grade--thank you Mom!  Now I generally divide my reading time between novels, skill improvement books, and <i>The New Yorker</i>.  Some of my favorite recent reads:  <i> The Rabbit Hutch</i> <i>Tomorrow, and Tomorrow, and Tomorrow</i>, <i>Lessons in Chemistry</i>, <i>Lessons from the Edge: A Memoir</i>, <i>The Short and Tragic LIfe of Robert Peace</i>, <i>Creativity, Inc.</i>, <i>Beautiful Ruins</i>, <i>Where'd You Go Bernadette</i>.",
+      "📚 I received a trophy for reading 100 books in first grade--thank you Mom!  Now I generally divide my reading time between novels, skill improvement books, and <i>The New Yorker</i>.  Some of my favorite recent reads:  <i> The Rabbit Hutch</i> <i>Tomorrow, and Tomorrow, and Tomorrow</i>, <i>Lessons in Chemistry</i>, <i>Lessons from the Edge: A Memoir</i>, <i>The Short and Tragic LIfe of Robert Peace</i>, <i>Creativity, Inc.</i>, <i>Beautiful Ruins</i>, <i>Where'd You Go Bernadette</i>.",
   },
   {
       title: 'Bucket List',
-      blurb: 'Learn spanish fluently. Learn to play a musical instrument. Become a fashion designer (this one might have to wait til in my next life). Do something meaningful to get more girls into STEM fields. Visit all 50 US states & Puerto Rico. Become a foreign diplomat (possibly a stretch for this lifetime).'
+      blurb: '🪣 Learn spanish fluently. Learn to play a musical instrument. Become a fashion designer (this one might have to wait til in my next life). Do something meaningful to get more girls into STEM fields. Visit all 50 US states & Puerto Rico. Become a foreign diplomat (possibly a stretch for this lifetime).'
+  },
+    {
+      title: 'The Wild West',
+      blurb: '🌵I grew up in Phoenix, Arizona which did often feel like the wild west with jeep trips in the desert, shooting cans and sometimes rattlesnakes, and learning to drive offroad at the age of 12 in a WWII era Willys Jeep.'
   },
 ];
 
