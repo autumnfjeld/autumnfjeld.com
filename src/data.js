@@ -51,21 +51,22 @@ var workExperience = [
   {
     order: 19,
     company: "WordPress.com at Automattic",
+    description: "Automattic is the company behind Wordpress.com, Jetpack, WooCommerce, and the open source WordPress project.  WordPress powers 43% of the world\’s websites.",
     title: "Product Engineering Lead",
     location: "Remote",
     startDate: "July 2020",
     endDate: "April 2025",
     companyBlurb: "WordPress.com is a hosted blogging platform and website builder. Automattic is the parent company of WordPress.com, WooCommerce Jetpack, and many other products.",
     items: [
-      'Automattic is the company behind Wordpress.com, Jetpack, WooCommerce, and the open source WordPress project.  WordPress powers 43% of the world’s websites.',
+ 
       
       '<b>Evolved the signup and onboarding funnel</b>, via iterative development in the steps where  new users create accounts, select domains and pricing plans, and begin their site-building journey. Balanced user experience with business impact in a technically complex product, experimenting with funnel steps like paywall placement and niche onboarding pathways. Drove changes based on behavioral analytics (drop-offs, refund rates, early churn) and qualitative feedback, optimizing for conversion and revenue.',
 
-       '<b>Launched the Design-Your-Own site builder</b>, the precursor to <a href="http://WordPress.com" target="_blank">WordPress.com AI site builder</a>. Drove engagement in customer onboarding, by creating invested users early in the onboarding funnel. Measured success regularly via customer interviews, user behavior analytics, and visual review of the hundreds of sites of converted (paid) customers.Featured in a <a href="https://wordpress.com/blog/2023/05/30/custom-theme-designs/" target="_blank">WordPress.com blog post</a> and <a href="https://sydney.wordcamp.org/2024/session/design-for-devs-making-the-most-of-patterns/" target="_blank"> WordCamp Sydney 2024 talk</a>. ',
+       '<b>Launched the Design-Your-Own site builder</b>, the precursor to <a href="http://WordPress.com" target="_blank">WordPress.com AI site builder</a>. Drove engagement in customer onboarding, by creating invested users early in the onboarding funnel. Measured success regularly via customer interviews, user behavior analytics, and visual review of the hundreds of sites of converted (paid) customers.Featured in a <a href="https://wordpress.com/blog/2023/05/30/custom-theme-designs/" target="_blank">WordPress.com blog post</a> and <a href="https://sydney.wordcamp.org/2024/session/design-for-devs-making-the-most-of-patterns/" target="_blank"> WordCamp Sydney 2024 talk</a>.',
 
-      '<b>Directed a platform-wide UI and IA simplification initiative</b>, decoupling WordPress.com hosting from WordPress Core site building features. Required meticulous analysis of entangled functionality, feature usage and revenue statistics, and collaboration across multiple WordPress ecosystems to ensure methodical product consolidation. See announcements <a href="https://wordpress.com/blog/2024/03/04/new-wp-admin/" target="_blank">new-wp-admin</a> and <a href="https://wordpress.com/blog/2024/06/10/hosting-dashboard/" target="_blank">hosting-dashboard</a>. ',
+      '<b>Directed a platform-wide UI and IA simplification initiative</b>, decoupling WordPress.com hosting from WordPress Core site building features. Required meticulous analysis of entangled functionality, feature usage and revenue statistics, and collaboration across multiple WordPress ecosystems to ensure methodical product consolidation. See announcements <a href="https://wordpress.com/blog/2024/03/04/new-wp-admin/" target="_blank">new-wp-admin</a> and <a href="https://wordpress.com/blog/2024/06/10/hosting-dashboard/" target="_blank">hosting-dashboard</a>.',
 
-      '<b>Led the Content Modeling plugin development </b>, an agency marketing initiative that showcased our creative leveraging of the latest WordPress features to build a new <a href="https://github.com/Automattic/create-content-model" target="_blank">content creation tool</a>.  Created business opportunity leads by demoing the project to agencies as a proof of innovation and to boost WordPress.com\'s appeal to technical customers. Generated excitement in <a href="https://youtu.be/nKntUgxnZuY?list=PL1pJFUVKQ7ET119A4Gb2bBfRFYSEbJlDB&t=3423" target="_blank">the open source community} on the potential of new Editor features. ',
+      '<b>Led the Content Modeling plugin development</b>, an agency marketing initiative that showcased our creative leveraging of the latest WordPress features to build a new <a href="https://github.com/Automattic/create-content-model" target="_blank">content creation tool</a>.  Created business opportunity leads by demoing the project to agencies as a proof of innovation and to boost WordPress.com\'s appeal to technical customers. Generated excitement in <a href="https://youtu.be/nKntUgxnZuY?list=PL1pJFUVKQ7ET119A4Gb2bBfRFYSEbJlDB&t=3433" target="_blank">the open source community} on the potential of new Editor features. </a>',
 
       '<b>Led as a force multiplier</b>, creating high performing teams who were given the hard projects. Introduced product analytics training, customer outreach processes, made every team meeting a place for feedback and introspection, developed new leads, and ensured my team was never siloed or satisfied with just what was assigned to us.',
 
@@ -76,27 +77,24 @@ var workExperience = [
   {
     order: 18,
     company: "ustwo Digital Design Agency", 
+    description: '<a href=https://ustwo.com/" target="_blank">ustwo</a> is a global digital design agency parterning with industry-leading brands. I was a product engineer working in driven product teams that delivered bespoke software solutions.',
     title: "Full-stack Product Engineer",
     location: "Sydney, Australia",
     startDate: "Jan 2018",
     endDate: "June 2020",
     items: [
-      '<a href="https://ustwo.com/" target="_blank">ustwo</a> is a digital design agency with offices around the globe. Below are the client projects I worked on.',
+    
 
-      '<a href="https://www.google.com/search?q=create+with+google" target="_blank">Create with Google</a>: (Rebranded to Think with Google) Part of the founding product team that launched Create with Google suite of products (now called Think with Google).  Delivered two projects under Google\'s infrastructure standards. Managed dev-side stakeholder/client management. Primary full-stack engineer for the YouTube Mockup Tool (GAE, Python, Webapp2, Angular) and technical lead on CMS rebuild of the Create with Google website (GAE, Python, Jinja).',
+      '<b>Create with Google</b>, (Rebranded to Think with Google) Part of the founding product team that launched <a href="https://www.google.com/search?q=create+with+google" target="_blank">Create with Google</a> suite of products.  Delivered two projects under Google\'s infrastructure standards. Managed dev-side stakeholder/client management. Primary full-stack engineer for the YouTube Mockup Tool (GAE, Python, Webapp2, Angular) and technical lead on CMS rebuild of the Create with Google website (GAE, Python, Jinja).',
 
+      '<b>Qantas Airlines</b>, designed and built backend architecture for <a href="https://www.pointhacks.com.au/news/qantas-card-companion/" target="_blank">Qantas Card Companion</a> app (React, Node.js, TypeScript, GraphQL, DynamoDB, Elasticsearch ) hosted on AWS.  Collaborated with Qantas engineers and ensured compliance with rigorous enterprise security and QA practices.',
       
-      '<a href="https://qantas.com/" target="_blank">Qantas</a>: Built the <a href="https://cardcompanion.qantas.com" target="_blank">Card Companion App</a> (React, Node.js, TypeScript, GraphQL). Designed and implemented backend architecture hosted on AWS.  Collaborated directly with Qantas tech leads and ensured compliance with rigorous enterprise security and QA practices',
+      '<b>Cochlear CoPilot</b>, an assistive app for maximizing functionality of <a href="https://www.cochlear.com/us/en/home/ongoing-care-and-support/rehabilitation-resources/copilot" target="_blank">Cochlear\'s hearing implant devices</a>. Responsible for python back-end, data transformation, and shepherding through AWS security architecture per medical and regulatory standards.',
+
+      '<b>BlueCats</b>, company website. Sole engineer responsible for all technical decisions in the tech stack, build pipeline, and hosting. (Angular7, Netlify, Contentful CMS).',
       
-
-      '<a href="https://www.cochlear.com" target="_blank">Cochlear</a>: Developed "CoPilot", a pilot app designed to make use of hearing implant data to assist recipients in maximizing functionality of their implants for optimal hearing. In charge of python back-end, data crunching, and shepherding through AWS security architecture per Cochlear and regulatory standards.',
-
-      '<a href="https://www.bluecats.com/" target="_blank">BlueCats</a>: sole engineer responsible for all technical decisions: tech stack, build pipeline, and hosting. Site built in Angular7, hosted on Netlify, with Contentful CMS.',
-
-      '<a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">Lumi: turning language into light</a>: an internal ustwo project using Philips Hue Lights, a Google Home, and node.js controller,  I built a Google voice driven web app that changed the lighting to reflect a person\'s mood. Read my <a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">blog post</a>.',
-
-      // TODO: figure out solution: this section becomes too tall, greater than 500px, and srews up the progress-work3.png image placement
-      // '<a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">Lumi</a>: An internal ustwo project I worked on with a designer, to create a light atmosphere that would reflect a person\'s mood. Using Philips Hue Lights, a Google Home, and a website and back-end node.js controller, and a beautiful UI design, I built an MVP that allowed user voice or text input to change the lighting in a room.  A project I\'d love to return to given the time, we had so many ideas for a fully immersive mood room (scent, music, massage chair!) that the user could command upon expressing their mood and state of mind. Read the <a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">blog post</a> I wrote.'
+      '<b>Lumi</b>, turning language into light</a>: an internal ustwo project using Philips Hue Lights, a Google Home, and node.js controller,  I built a Google voice driven web app that changed the lighting to reflect a person\'s mood. Read my post <a href="https://www.ustwo.com/blog/turning-language-into-light" target="_blank">Turning Language into Light</a>.',
+      
     ],
   },
   {
@@ -107,9 +105,17 @@ var workExperience = [
     startDate: "Then",
     endDate: "Always",
     items: [
-      'Built autumnfjeld.com. Hosted on AWS, served up from AWS S3, with AWS Microservices for the contact form.',
-      'Built a site for a Computational Materials research group at the University of California Riverside utilizing AWS tools: a multi-part site hosted on S3 with Microservices to handle dynamic content. Technical goals for this project included maximizing use of flexbox, using npm for all build steps, creating a scripting process to parse <a href="http://www.bibtex.org/Format" target="_blank">bibtex</a> journal listings into interactive html content. <a href="https://github.com/autumnfjeld/dralexgreaney" target="_blank">Github repo.</a> ',
+      'autumnfjeld.com, where you are now. 😃  Hosted zone on AWS, S3, and previously with AWS Microservices for the contact form. ',
+
+      'Website for <a href="http://alexgreaney.com/" target="_blank">Computational Materials research group</a> at the University of California Riverside. Hosted on AWS, S3 with Microservices, npm as build tool, script to parse <a href="http://www.bibtex.org/Format" target="_blank">bibtex</a> journal listings to html.',
+      //  <a href="https://github.com/autumnfjeld/dralexgreaney" target="_blank">Github.</a> ',
+            
+      'My interactive resume <a href="https://autbot.vercel.app/" target="_blank">The AutBot</a>, a toy RAG app (Python, llama-index, React).',
+
       'Design education via Coursera\'s <a href="https://www.coursera.org/specializations/graphic-design" target="_blank">Graphic Design Specialization</a> created by California Institute of the Arts.',
+
+      'During my post-doc in Austria, edited scientific manuscripts for non-native English speakers leading to publication in high profile scientific journals.'
+
     ],
   },
   {
@@ -157,18 +163,7 @@ var workExperience = [
       "Created and delivered technical training webinars twice a month to NUMECA’s user base.",
     ],
   },
-  {
-    order: 11,
-    company: "Freelance Editor for Scientific Manuscripts",
-    title: "English Editor ",
-    location: "Global",
-    startDate: "2010",
-    endDate: "2014",
-    items: [
-      "Edited scientific manuscripts for non-native English speakers leading to publication in high profile scientific journals, including work for American Journal Experts, a global editing service for scientists.",
-      "Built Joomla site (in my pre-web dev days) to advertise my services. Brought in business by advertising on Austrian websites.",
-    ],
-  },
+
   {
     order: 10,
     company: "University of Leoben, Austria",
@@ -178,7 +173,9 @@ var workExperience = [
     endDate: "Nov 2010",
     items: [
       "Created a computational model of a large casting process to simulate flow and heat transfer phenomena for an Austrian steel making company.",
+
       "Expanded functionality of commercial simulation software with user defined functions in C and data processing scripts in scheme. Used Matlab extensively for data analysis. Tested feasibility of open source simulation framework, OpenFOAM.",
+
       "Defined experimental investigations for industry partner to get input and validation data for simulations.",
     ],
   },
