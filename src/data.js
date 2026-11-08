@@ -48,6 +48,20 @@ var general = {
  * @type {Object}
  */
 var workExperience = [
+   {
+    order: 19,
+    company: "IDVerse @ LexisNexis Risk Solutions",
+    description: "DVerse, a LexisNexis Risk Solutions company, provides AI-powered identity verification that helps banks and other businesses detect fraud from a selfie and photo ID.",
+    title: "Senior Technical Product Manager",
+    location: "Sydney | Remote",
+    startDate: "December 2025",
+    endDate: "Present",
+    companyBlurb: "WordPress.com is a hosted blogging platform and website builder. Automattic is the parent company of WordPress.com, WooCommerce Jetpack, and many other products.",
+    items: [
+      `Transformed a reactive DevOps team into a planned, documented organization, introducing project planning, Jira ticketing, and written documentation. Helped the group move from startup scramble to the structured processes expected after its acquisition by LexisNexis Risk.`,
+    'Serve as the conduit between DevOps and the teams it serves, improving communication with software developers and customer-facing teams who depend on DevOps support. Manage development of internal tooling that lets non-technical staff configure the company’s digital ID verification software.'
+    ]
+  },
   {
     order: 19,
     company: "WordPress.com at Automattic",
@@ -98,10 +112,41 @@ var workExperience = [
     ],
   },
   {
+    order: 14,
+    company: "Talentbin by Monster",
+    description: "Talentbin is a recruiting platform that helps companies find and connect with top talent. I was a full-stack software engineer with a front-end emphasis, working on the enterprise recruiting web application.",
+    title: "Software Engineer",
+    location: "San Francisco, CA",
+    startDate: "Apr 2016",
+    endDate: "Nov 2018",
+    items: [
+      "Built and maintained enterprise recruiting web application as a full-stack software engineer, with front-end emphasis. Frontend: MySQL, Java, PHP, JavaScript (Backbone, Ractive). Backend: Java, Python, MySQL, AWS.",
+      "Proposed new agile processes, technical communication tooling (git, slack, zapier, etc.), and code infrastructure with modern frameworks to replace, or coexist with, legacy code as the company evolved from scrappy start-up to a more structured organization.",
+      "Built a chrome extension app: a mini-version of our main site that pulls data from social network sites to match profiles in our database.",
+      "Mentored computer science interns, guiding them through the complexities of a large codebase and front-end web development.",
+    ],
+  },
+  {
+    order: 15,
+    company: "Ziploop",
+    description: "The Ziploop App let users upload receipts and receive retail rewards. As part of six person start-up I contributed as both a front-end engineer and an ad-hoc designer.",
+    title: "Software Engineer",
+    location: "Orinda, CA",
+    startDate: "Apr 2014",
+    endDate: "Apr 2016",
+    items: [
+      "Designed and implemented front-end components of mobile consumer app and two enterprise sites. (Angular, Express, Mongo, Node) Worked closely with President to craft UI/UX.",
+      "Architected components, maintained build processes (grunt, gulp, git, unix scripts), choose frameworks, modules, and pushed to keep a clean, maintainable code base by introducing structure via SASS and Angular best practices.",
+      "Solved load time problems for large list of images, optimizing quality and performance; enforced pixel perfect UI/UX.",
+      "Managed collaborations between lead developer and non-technical president, supervised two junior engineers, and an assistant to develop her technical graphic design skills.",
+
+    ],
+  },
+  {
     order: 16,
     company: "Freelance & Personal Projects",
     title: "Lifelong learner",
-    location: "San Francisco,CA",
+    location: "Everywhere",
     startDate: "Then",
     endDate: "Always",
     items: [
@@ -116,38 +161,6 @@ var workExperience = [
 
       'During my post-doc in Austria, edited scientific manuscripts for non-native English speakers leading to publication in high profile scientific journals.'
 
-    ],
-  },
-  {
-    order: 15,
-    company: "Talentbin by Monster",
-    title: "Software Engineer",
-    location: "San Francisco, CA",
-    startDate: "Apr 2016",
-    endDate: "Nov 2018",
-    items: [
-      "Full-stack software engineer, with front-end emphasis, built and maintained enterprise recruiting web application. Tech stack: Java, PHP, Javascript (Backbone, Ractive).",
-      "Architect new code patterns with modern frameworks to replace, or coexist with, legacy code.",
-      "Built chrome extension app, a mini-version of our main site that pulls data from social network sites to match existing profiles in our database.",
-      "Helped a growing team migrate from start-up culture to a well-defined agile-scrum work process. Created documentation, proactively recommend improvements in communication and tools (git, slack, zapier, wiki).",
-      "Ran team lunch & learn sessions, motivated team to share technical learnings and challenges.",
-      "Ruthless about getting team members to document their work in our git wiki!",
-      "Supervised two computer science interns, guiding them through the complexities of a large codebase and teaching them in first experiences in front-end web development.",
-    ],
-  },
-  {
-    order: 14,
-    company: "Ziploop",
-    title: "Software Engineer",
-    location: "Orinda, CA",
-    startDate: "Apr 2014",
-    endDate: "Apr 2016",
-    items: [
-      "Designed and implemented front-end components of mobile consumer app and two enterprise sites in AngularJS framework. Worked closely with President to design UI/UX.",
-      "Collaborated with founding CTO to architect components, maintain build processes (grunt, gulp, git, unix scripts), choose frameworks, modules, and pushed to keep a clean, maintainable code base.",
-      "Refactored many parts of chaotic, legacy codebase to maintainability and sanity (SASS, Angular best practices).",
-      "Solved load time problems for large list of images, via ImageMagick script to produce uniform images, at the right balance of size and quality for optimal page performance. Continually strove for pixel perfect UI/UX.",
-      "Managed collaborations between lead developer and non-technical president, supervised two junior engineers and an assistant to develop her technical graphic design skills.",
     ],
   },
   {

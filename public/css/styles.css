@@ -9852,20 +9852,31 @@ h3 {
   background: #644087 !important;
   color: #fafafa;
 }
+.social-links {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  /* allows wrapping on small screens */
+  gap: 1rem;
+  /* space between buttons */
+}
 .btn-social {
+  align-items: center;
   background-color: #755198;
   border-radius: 36px;
   color: white;
+  display: flex;
   font-size: 18px;
   height: 36px;
-  line-height: 34px;
-  margin-right: 12px;
+  justify-content: center;
   padding: 0;
+  text-decoration: none;
   width: 36px;
 }
 .btn-social:hover {
-  background: #644087 !important;
+  background: #3b658a;
   color: #fafafa;
+  text-decoration: none;
 }
 .btn-hide-text {
   display: inline-block;
@@ -10365,7 +10376,6 @@ p {
 .graduation-time,
 .job {
   font-size: 14px;
-  color: #999999;
 }
 .graduation-time .fa,
 .job .fa {
@@ -10378,26 +10388,35 @@ p {
   font-weight: 200;
 }
 .graduation-description,
-.job-description {
+.job-description,
+.company-description {
   font-size: 13px;
 }
 .graduation-description p,
-.job-description p {
+.job-description p,
+.company-description p {
   font-size: 13px;
   line-height: 19px;
 }
 .graduation-description ul,
-.job-description ul {
+.job-description ul,
+.company-description ul {
   padding: 0 0 0 20px;
 }
 .graduation-description ul li,
-.job-description ul li {
+.job-description ul li,
+.company-description ul li {
   color: #999999;
   padding-bottom: 4px;
 }
 .graduation-description ul li .li-text,
-.job-description ul li .li-text {
+.job-description ul li .li-text,
+.company-description ul li .li-text {
   color: #555;
+}
+.company-description {
+  font-style: italic;
+  font-weight: 300;
 }
 /* ==========================================================
 ! 9b. Work Experience
